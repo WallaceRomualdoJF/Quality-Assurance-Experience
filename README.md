@@ -1,7 +1,7 @@
 
-# Quality-Assurance-Experience
-
 ![Logo Quality Assurance](https://assets.dio.me/gcIZrPVWZpLDOTz1dV7gyHeympu0yaFhcsd2q82h2mk/f:webp/h:120/q:80/L3RyYWNrcy80NmFjNTIyYi1mZjNlLTRmNzMtYjQ3My1jZmU2MzRjMjZkYWMucG5n)
+
+# Quality-Assurance-Experience
 
 A **formação Quality Assurance (QA) Experience** oferece uma introdução completa ao universo de **Qualidade de Software** e ao papel essencial do **Quality Assurance (QA)** no processo de desenvolvimento. O curso proporciona conhecimentos teóricos e práticos, com foco em melhorar a qualidade do software por meio de diferentes técnicas e ferramentas de testes.
 
