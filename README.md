@@ -1,7 +1,7 @@
 
 # Quality-Assurance-Experience
 
-![Logo Quality Assurance](logo-url) *(https://assets.dio.me/gcIZrPVWZpLDOTz1dV7gyHeympu0yaFhcsd2q82h2mk/f:webp/h:120/q:80/L3RyYWNrcy80NmFjNTIyYi1mZjNlLTRmNzMtYjQ3My1jZmU2MzRjMjZkYWMucG5n)*
+![Logo Quality Assurance](https://assets.dio.me/gcIZrPVWZpLDOTz1dV7gyHeympu0yaFhcsd2q82h2mk/f:webp/h:120/q:80/L3RyYWNrcy80NmFjNTIyYi1mZjNlLTRmNzMtYjQ3My1jZmU2MzRjMjZkYWMucG5n)
 
 A **formação Quality Assurance (QA) Experience** oferece uma introdução completa ao universo de **Qualidade de Software** e ao papel essencial do **Quality Assurance (QA)** no processo de desenvolvimento. O curso proporciona conhecimentos teóricos e práticos, com foco em melhorar a qualidade do software por meio de diferentes técnicas e ferramentas de testes.
 
@@ -29,9 +29,3 @@ A **formação Quality Assurance (QA) Experience** oferece uma introdução comp
 5. **Desenvolvimento de Soft Skills**:
    - A comunicação entre equipes de QA e desenvolvimento.
    - A importância de um mindset de melhoria contínua e atenção aos detalhes.
-
-```markdown
-![Logo Quality Assurance](https://example.com/logo.png)
-```
-
-Se você estiver criando o arquivo no **GitHub**, adicione a logo na pasta do repositório ou use uma URL de uma imagem externa para referenciá-la corretamente.
