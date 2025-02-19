@@ -1,5 +1,5 @@
 
-# Testes Unitários - Digital Innovation One
+# Testes Unitários para Validar uma API REST
 
 Este repositório contém o conteúdo da aula sobre **Testes Unitários**, apresentada na plataforma **Digital Innovation One**. O objetivo desta aula foi ensinar sobre a pirâmide de testes de software, destacando a importância dos testes unitários durante o desenvolvimento e explorando frameworks como JUnit, Mockito e Hamcrest.
 
